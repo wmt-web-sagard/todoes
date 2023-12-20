@@ -1,0 +1,8 @@
+.display--box{
+    height: 14rem;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid green;
+    float: left;
+    margin: 3px;
+}
